@@ -12,10 +12,11 @@ Also you can use === or *** or ___ or --- to make headlines
 ---
 To make **bold** higlight use \*\*text\*\* or __text\_\_  
 To make *italic* highlight use \*text\* or \_text\_  
-To make ~~crossed out text~~ use \~\~text\~\~
-
+To make ~~crossed out text~~ use \~\~text\~\~  
+**_~~Of course you can combine higlights~~_**
 ## 3. Lists
 ---
+
 ## Links & images
 ---
 ## Quotes & code insertion
