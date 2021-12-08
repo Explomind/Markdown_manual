@@ -24,7 +24,11 @@ To make unnumbered list use + or - or *
 - \-Second
 * \*Third
 
+To make numbered list use 1. 2. 3. ...
 
+1. First
+2. Second
+3. Third
 
 ## Links & images
 ---
