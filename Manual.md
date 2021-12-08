@@ -30,6 +30,20 @@ To make numbered list use 1. 2. 3. ...
 2. Second
 3. Third
 
+To make nested list use spaces in the beginning of the line
+
+1. First item.
+
+    1.1. First sub-item.
+
+        1.1.1. First sub-sub-item.
+
++ Second item
+
+    - Second sub-item
+
+        * Second sub-sub-item
+
 ## Links & images
 ---
 ## Quotes & code insertion
