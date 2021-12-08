@@ -16,6 +16,15 @@ To make ~~crossed out text~~ use \~\~text\~\~
 **_~~Of course you can combine higlights~~_**
 ## 3. Lists
 ---
+Using Markdown you can create unnumbered, numbered and nested lists.
+
+To make unnumbered list use + or - or *
+
++ \+First
+- \-Second
+* \*Third
+
+
 
 ## Links & images
 ---
