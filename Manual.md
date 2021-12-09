@@ -139,3 +139,13 @@ To make a table use | and --
 ---
 ## **7. Shielding**
 ---
+
+If you want to see some special symbols in your text you should use \ for shielding. For example:
+
+\*No italic highlight\*
+
+\*\*No bold highlight\*\*
+
+\#No headline\#
+
+``If you want to use symbol `graves` inside inline code you should use double `graves` to make inline code section``
