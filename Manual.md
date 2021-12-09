@@ -128,6 +128,17 @@ console.log(greeting1);
 ---
 ## **6. Tables & check-boxes**
 ---
+To make a table use | and --
+
+| N | Name | Age |
+|--|--|--|
+|1|Anna|18
+|2|George|25|
+|3|Maria|15|
+
+To add checkbox use [ ] or [X].
+
+
 
 ---
 ## **7. Shielding**
