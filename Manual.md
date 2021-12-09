@@ -54,7 +54,7 @@ Also you can combine numbered list and unnumbered one:
 
 ## Links & images
 ---
-To add hyperlink:
+To add link:
 
 * without anchor - use <>  
 <http://example.com>
@@ -64,6 +64,15 @@ To add hyperlink:
 
 * with anchor and title - write the title in " " next to the link  
 [Link for example](http://example.com "Example")
+
+You can use ID labels for links:
+
+The most common search engines are [Yandex][yandex-link] , [Google][1] and [Yahoo][]
+
+[yandex-link]: https://yandex.ru "Yandex main page"  
+[1]: google.com 'Google main page'
+[Yahoo]: yahoo.com (Yahoo main page)
+
 
 ## Quotes & code insertion
 ---
