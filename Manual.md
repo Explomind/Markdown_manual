@@ -126,7 +126,7 @@ let greeting1 = 'Father!';
 console.log(greeting1);
 ```
 ---
-## **6. Tables & check-boxes**
+## **6. Tables**
 ---
 To make a table use | and --
 
@@ -135,10 +135,6 @@ To make a table use | and --
 |1|Anna|18
 |2|George|25|
 |3|Maria|15|
-
-To add checkbox use [ ] or [X].
-
-
 
 ---
 ## **7. Shielding**
