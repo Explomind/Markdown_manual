@@ -105,7 +105,26 @@ To add quotes use > . For example:
 >>> * List item 1 headline
 >>> Something in item 1
 
+To insert code use `. For example:
 
+* Inline code: `print("Hello, world!")`
+
+* Python code:
+
+```python
+
+x = int(input())
+if x > 0:
+    print(x)
+else:
+    print(-x)    
+
+```
+* Javascript code:
+```javascript
+let greeting1 = 'Father!';
+console.log(greeting1);
+```
 ---
 ## **6. Tables & check-boxes**
 ---
