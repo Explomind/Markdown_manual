@@ -54,6 +54,17 @@ Also you can combine numbered list and unnumbered one:
 
 ## Links & images
 ---
+To add hyperlink:
+
+* without anchor - use <>  
+<http://example.com>
+
+* with anchor - use [ ] for the text and ( ) for the link  
+[Example](http://example.com)
+
+* with anchor and title - write the title in " " next to the link  
+[Link for example](http://example.com "Example")
+
 ## Quotes & code insertion
 ---
 ## Tables & check-boxes
