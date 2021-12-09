@@ -44,6 +44,14 @@ To make nested list use spaces in the beginning of the line
 
         * Second sub-sub-item
 
+Also you can combine numbered list and unnumbered one:
+
+1. First item
+
+    + first sub-item
+
+        - first sub-sub-item
+
 ## Links & images
 ---
 ## Quotes & code insertion
