@@ -73,6 +73,21 @@ The most common search engines are [Yandex][yandex-link] , [Google][1] and [Yaho
 [1]: google.com 'Google main page'
 [Yahoo]: yahoo.com (Yahoo main page)
 
+To add image use ! before link in [ ]. For example:
+
+* Just image
+
+![Tiger image](https://yt3.ggpht.com/-CIQfJ7okXPA/AAAAAAAAAAI/AAAAAAAAAAA/X9sXyN29-ZI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg)
+
+* Image with title
+
+![Tiger image](https://yt3.ggpht.com/-CIQfJ7okXPA/AAAAAAAAAAI/AAAAAAAAAAA/X9sXyN29-ZI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg "Angry tiger")
+
+Also you can use label for image.
+
+![Image][tiger]
+
+[tiger]: https://yt3.ggpht.com/-CIQfJ7okXPA/AAAAAAAAAAI/AAAAAAAAAAA/X9sXyN29-ZI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg "Angry tiger"
 
 ## Quotes & code insertion
 ---
