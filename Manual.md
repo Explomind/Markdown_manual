@@ -1,5 +1,5 @@
 # Markdown manual
-## 1. Headlines
+## **1. Headlines**
 ---
 To make headline 1-6 level use 1-6 #.   
 For example:
@@ -8,13 +8,17 @@ For example:
 ### \#\#\#Third level headline  
 And so on...  
 Also you can use === or *** or ___ or --- to make headlines  
-## 2. Text highlight
+
+---
+## **2. Text highlight**
 ---
 To make **bold** higlight use \*\*text\*\* or __text\_\_  
 To make *italic* highlight use \*text\* or \_text\_  
 To make ~~crossed out text~~ use \~\~text\~\~  
 **_~~Of course you can combine higlights~~_**
-## 3. Lists
+
+---
+## **3. Lists**
 ---
 Using Markdown you can create unnumbered, numbered and nested lists.
 
@@ -52,7 +56,8 @@ Also you can combine numbered list and unnumbered one:
 
         - first sub-sub-item
 
-## Links & images
+---
+## **4. Links & images**
 ---
 To add link:
 
@@ -89,9 +94,14 @@ Also you can use label for image.
 
 [tiger]: https://yt3.ggpht.com/-CIQfJ7okXPA/AAAAAAAAAAI/AAAAAAAAAAA/X9sXyN29-ZI/s240-c-k-no-mo-rj-c0xffffff/photo.jpg "Angry tiger"
 
-## Quotes & code insertion
 ---
-## Tables & check-boxes
+## **5. Quotes & code insertion**
 ---
-## Shielding
+
+---
+## **6. Tables & check-boxes**
+---
+
+---
+## **7. Shielding**
 ---
