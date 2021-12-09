@@ -97,6 +97,14 @@ Also you can use label for image.
 ---
 ## **5. Quotes & code insertion**
 ---
+To add quotes use > . For example:
+
+>First level quote
+>>Second level quote
+>>> #### *Headline 3*
+>>> * List item 1 headline
+>>> Something in item 1
+
 
 ---
 ## **6. Tables & check-boxes**
