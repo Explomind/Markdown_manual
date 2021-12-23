@@ -149,3 +149,6 @@ If you want to see some special symbols in your text you should use \ for shield
 \#No headline\#
 
 ``If you want to use symbol `graves` inside inline code you should use double `graves` to make inline code section``
+
+[] checkbox1
+[x] checkbox2
